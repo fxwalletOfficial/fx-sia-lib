@@ -2,13 +2,13 @@
   "name": "@dewebjs/sia-js",
   "version": "1.0.3",
   "main": "lib/index.js",
-  "repository": "https://github.com/deweb-services/sia-js",
+  "repository": "",
   "author": "Escada Finance",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deweb-services/sia-js/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/deweb-services/sia-js#readme",
+  "homepage": "",
   "scripts": {
     "test": "jest"
   },
